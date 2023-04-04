@@ -1,0 +1,30 @@
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\bin\Debug\net6.0\eAgenda.Aplicacao.deps.json
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\bin\Debug\net6.0\eAgenda.Aplicacao.dll
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\bin\Debug\net6.0\eAgenda.Aplicacao.pdb
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\bin\Debug\net6.0\eAgenda.Dominio.dll
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\bin\Debug\net6.0\eAgenda.Dominio.pdb
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.csproj.CopyComplete
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.dll
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\obj\Debug\net6.0\refint\eAgenda.Aplicacao.dll
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.pdb
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\eAgenda.Aplicacao\obj\Debug\net6.0\ref\eAgenda.Aplicacao.dll
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\bin\Debug\net6.0\eAgenda.Aplicacao.deps.json
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\bin\Debug\net6.0\eAgenda.Aplicacao.dll
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\bin\Debug\net6.0\eAgenda.Aplicacao.pdb
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\bin\Debug\net6.0\eAgenda.Dominio.dll
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\bin\Debug\net6.0\eAgenda.Dominio.pdb
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.csproj.CopyComplete
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.dll
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\obj\Debug\net6.0\refint\eAgenda.Aplicacao.dll
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\obj\Debug\net6.0\eAgenda.Aplicacao.pdb
+C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Aplicacao\obj\Debug\net6.0\ref\eAgenda.Aplicacao.dll
