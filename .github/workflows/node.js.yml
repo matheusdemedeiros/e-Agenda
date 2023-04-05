@@ -28,6 +28,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
+        cache-dependency-path: './src/client'
     - name: install dependencies
       run: npm install
     - name: build application
