@@ -28,3 +28,18 @@ C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\
 C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Infra.Logging\obj\Debug\net6.0\refint\eAgenda.Infra.Logging.dll
 C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Infra.Logging\obj\Debug\net6.0\eAgenda.Infra.Logging.pdb
 C:\Users\Matheus\Documents\Academia do Programador 2022\Conteúdos\Projetos Web\WebApi\eAgendaWeb\src\Server\Nova pasta\eAgenda.Infra.Logging\obj\Debug\net6.0\ref\eAgenda.Infra.Logging.dll
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\bin\Debug\net6.0\eAgenda.Infra.Logging.deps.json
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\bin\Debug\net6.0\eAgenda.Infra.Logging.dll
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\bin\Debug\net6.0\eAgenda.Infra.Logging.pdb
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\bin\Debug\net6.0\eAgenda.Infra.Configs.dll
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\bin\Debug\net6.0\eAgenda.Infra.Configs.pdb
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\obj\Debug\net6.0\eAgenda.Infra.Logging.csproj.AssemblyReference.cache
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\obj\Debug\net6.0\eAgenda.Infra.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\obj\Debug\net6.0\eAgenda.Infra.Logging.AssemblyInfoInputs.cache
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\obj\Debug\net6.0\eAgenda.Infra.Logging.AssemblyInfo.cs
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\obj\Debug\net6.0\eAgenda.Infra.Logging.csproj.CoreCompileInputs.cache
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\obj\Debug\net6.0\eAgenda.Infra.Logging.csproj.CopyComplete
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\obj\Debug\net6.0\eAgenda.Infra.Logging.dll
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\obj\Debug\net6.0\refint\eAgenda.Infra.Logging.dll
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\obj\Debug\net6.0\eAgenda.Infra.Logging.pdb
+C:\DEV\e-Agenda\src\server\eAgenda.Infra.Logging\obj\Debug\net6.0\ref\eAgenda.Infra.Logging.dll
