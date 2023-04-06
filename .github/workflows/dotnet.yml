@@ -28,4 +28,4 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       working-directory: src/server/eAgenda.Dominio.Tests
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test eAgenda.Dominio.Tests --no-build --verbosity normal
