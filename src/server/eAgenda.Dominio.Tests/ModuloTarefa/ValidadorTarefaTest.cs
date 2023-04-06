@@ -25,7 +25,7 @@ namespace eAgenda.Dominio.ModuloTarefa.Tests
             var resultado = validador.Validate(t);
 
             //assert
-            Assert.AreEqual("O campo título é obrigatório", resultado.Errors[0].ErrorMessage);
+            Assert.AreEqual("O campo titulo e obrigatorio", resultado.Errors[0].ErrorMessage);
         }
 
         [TestMethod]
@@ -42,7 +42,7 @@ namespace eAgenda.Dominio.ModuloTarefa.Tests
             var resultado = validador.Validate(t);
 
             //assert
-            Assert.AreEqual("O campo Data de Criação é obrigatório", resultado.Errors[0].ErrorMessage);
+            Assert.AreEqual("O campo Data de Criacao e obrigatorio", resultado.Errors[0].ErrorMessage);
         }
     }
 }
