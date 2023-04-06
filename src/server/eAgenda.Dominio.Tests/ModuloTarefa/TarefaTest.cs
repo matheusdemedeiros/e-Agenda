@@ -154,7 +154,7 @@ namespace eAgenda.Dominio.ModuloTarefa.Tests
 
             //assert
             var resultadoEsperado =
-                $"Numero: {id}, Titulo: Tarefa 01, Percentual: 50,0, Prioridade: Alta";
+                $"Numero: {id}, Titulo: Tarefa 01, Percentual: 50.0, Prioridade: Alta";
 
             Assert.AreEqual(resultadoEsperado, resultado);
         }
