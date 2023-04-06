@@ -52,11 +52,11 @@ namespace eAgenda.Dominio.ModuloTarefa
 
             if (DataConclusao.HasValue)
             {
-                return $"Número: {Id}, Título: {Titulo}, Percentual: {percentual}, Prioridade: {Prioridade}, " +
-                    $"Concluída: {DataConclusao.Value.ToShortDateString()}";
+                return $"Numero: {Id}, Titulo: {Titulo}, Percentual: {percentual}, Prioridade: {Prioridade}, " +
+                    $"Concluida: {DataConclusao.Value.ToShortDateString()}";
             }
 
-            return $"Número: {Id}, Título: {Titulo}, Percentual: {percentual}, Prioridade: {Prioridade}";
+            return $"Numero: {Id}, Titulo: {Titulo}, Percentual: {percentual}, Prioridade: {Prioridade}";
         }
 
         public Tarefa Clonar()

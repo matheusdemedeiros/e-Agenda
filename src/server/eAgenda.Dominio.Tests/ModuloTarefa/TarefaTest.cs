@@ -154,7 +154,7 @@ namespace eAgenda.Dominio.ModuloTarefa.Tests
 
             //assert
             var resultadoEsperado =
-                $"Número: {id}, Título: Tarefa 01, Percentual: 50,0, Prioridade: Alta";
+                $"Numero: {id}, Titulo: Tarefa 01, Percentual: 50,0, Prioridade: Alta";
 
             Assert.AreEqual(resultadoEsperado, resultado);
         }
@@ -183,7 +183,7 @@ namespace eAgenda.Dominio.ModuloTarefa.Tests
 
             //assert
             var resultadoEsperado =
-                $"Número: {id}, Título: Tarefa 01, Percentual: 100, Prioridade: Alta, Concluída: {DateTime.Now.ToShortDateString()}";
+                $"Numero: {id}, Titulo: Tarefa 01, Percentual: 100, Prioridade: Alta, Concluida: {DateTime.Now.ToShortDateString()}";
 
             Assert.AreEqual(resultadoEsperado, resultado);
         }
