@@ -24,6 +24,7 @@ jobs:
       working-directory: src/server
       run: dotnet restore
     - name: Build
+      working-directory: src/server
       run: dotnet build --no-restore
     - name: Test
       working-directory: src/server
