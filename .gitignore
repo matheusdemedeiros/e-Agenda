@@ -1,6 +1,8 @@
 #backend
 **/bin/
 **/obj/
+.vs/
+**/Properties/
 
 #frontend
 node_modules/
