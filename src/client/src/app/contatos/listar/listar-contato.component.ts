@@ -10,12 +10,10 @@ import { ListarContatoViewModel } from '../view-models/listar-contato.view-model
 })
 export class ListarContatoComponent implements OnInit {
   public contatos$: Observable<ListarContatoViewModel[]>;
-  public valueTest: number;
 
   constructor(private contatoService: ContatoService) { }
 
   ngOnInit(): void {
     this.contatos$ = this.contatoService.selecionarTodos();
-    this.valueTest = 30;
   }
 }
