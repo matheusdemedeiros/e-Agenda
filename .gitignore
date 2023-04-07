@@ -1,0 +1,8 @@
+#backend
+**/bin/
+gigit **/obj/
+
+#frontend
+node_modules/
+.vscode/
+.angular/
