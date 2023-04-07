@@ -1,6 +1,6 @@
 #backend
 **/bin/
-gigit **/obj/
+**/obj/
 
 #frontend
 node_modules/
