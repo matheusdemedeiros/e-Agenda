@@ -19,6 +19,7 @@ describe(ListarContatoComponent.name, () => {
     component = fixture.componentInstance;
   });
 
+<<<<<<< HEAD
   it('(D) Should render HTML when component init', () => {
     // Arrange
 
@@ -34,6 +35,8 @@ describe(ListarContatoComponent.name, () => {
     expect(table.rows[0].cells[2].innerText).toBe('Telefone');
   })
 
+=======
+>>>>>>> 9390a7aad415593b9dee26b6eeba5d4447e2847e
   it('#contatos should contains 3 items', (done) => {
     // Act
     fixture.detectChanges();
